@@ -1,0 +1,11 @@
+keras:2.1.5
+
+tensorflow:1.1.9
+
+flask
+ pillow 
+requests
+
+flask 
+redis 
+gevent
