@@ -1,12 +1,12 @@
 # CIFT(Classify Image For Tensorflow) server
 
-###Step 1: bash setup.sh to start docker containers
+- Step 1: bash setup.sh to start docker containers
 ### You need wait few seconds for the docker container server to get ready
-###Step 2: cd unit_test
-###Step 3: ./batchTest.api which uses curl to send classify-image API to ciftsever and get a report afterward
-###Step 4: more image url can be added to imageUrlList.json, and batchTest.api could read it to send classify-image APIs and get a report
+- Step 2: cd unit_test
+- Step 3: ./batchTest.api which uses curl to send classify-image API to ciftsever and get a report afterward
+- Step 4: more image url can be added to imageUrlList.json, and batchTest.api could read it to send classify-image APIs and get a report
 
-###Step 5: using docker build to build a new docker image
+- Step 5: using docker build to build a new docker image
 
 other command
 
